@@ -46,16 +46,8 @@ When an individual or community reaches out for help, our response is measured, 
 **Our Operational Boundary:**
 We keep things straightforward. We do not conduct deep private investigations, nor do we publish public exposés. Our role is intelligence and advice, not law enforcement or vigilante action.
 
----
-
-## Spawn Division
-
-The Spawn community is a unique space where many individuals gather as a way to cope with trauma. The Spawn Division of WIC is dedicated to this specific community.
-
 **Our Commitment:**
 We work to help create safer, low-drama environments within the Spawn ecosystem. We do this quietly and without turning community needs into a public spectacle. Our focus is on sustainable safety, not performative action.
-
----
 
 ## Recommended Safe Havens
 
