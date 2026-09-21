@@ -79,7 +79,7 @@ We build tools for our own internal use. As they mature, we gradually release th
 | TEL (Threat Entity Library) | Internal tracking system for threat intelligence, actor profiles, and coordinated attack patterns. |
 | Custom Hardening Utilities | Specialized scripts and configurations for enhancing Discord server security and threat detection. |
 | Safe Haven Management System | A directory and verification workflow for managing the Recommended Safe Havens list. |
-| OSINT API (In Development) | A planned public query system for accessing non-sensitive threat intelligence data. |
+| StyxNet | Deep Web Intelligence Engine — authenticated onion network crawler, search aggregator, and network analyzer. Darknet reconnaissance & threat detection.. |
 | Partner Toolkits | Security resources, checklists, and configurations shared with trusted community partners. |
 | Public Utility Scripts | Open-source tools released to the general public for community self-defense. |
 
